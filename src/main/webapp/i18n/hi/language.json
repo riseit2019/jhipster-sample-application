@@ -1,0 +1,12 @@
+{
+  "jhipsterSampleApplicationApp": {
+    "Language": {
+      "null": "",
+      "FRENCH": "FRENCH",
+      "ENGLISH": "ENGLISH",
+      "SPANISH": "SPANISH",
+      "HINDHI": "HINDHI",
+      "TELUGU": "TELUGU"
+    }
+  }
+}
